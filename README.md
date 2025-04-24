@@ -57,7 +57,6 @@ The API endpoints are located within the `Reports/Reporting Dashboard` collectio
   - `VALID Y AXIS (Report on: Task)`: ['Task count', 'Time', 'Time entry', 'Custom field']
   - `VALID X AXIS (Report on: Project)`: ['Project owner', 'Project status', 'Project']
   - `VALID Y AXIS (Report on: Project)`: ['Project count']
-  - `VALID TIME PERIOD`: ['Day', 'Week', 'Month', 'Quarter', 'Year']
 
 ## Widget Filters
 
